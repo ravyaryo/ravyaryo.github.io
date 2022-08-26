@@ -8558,13 +8558,13 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 
 .crop {
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
   overflow: hidden;
 }
 
 .crop img {
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
   margin: 0px 0 0 -100px;
 }
